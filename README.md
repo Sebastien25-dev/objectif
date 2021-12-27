@@ -12,3 +12,4 @@ Exercice Formulaire (à modifier)
 Prochainement cours CSS.
 Exercice froggy (en cours)
 Cours CSS (en cours) 
+JavaScript cours sur les fondamentaux (en cours d'apprentissage)
