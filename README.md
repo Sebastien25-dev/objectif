@@ -12,4 +12,7 @@ Exercice Formulaire fini. (à modifier)
 Exercice froggy fini.
 Cours CSS fini.
 JavaScript cours sur les fondamentaux (en cours d'apprentissage)
+Bootstrap (à voir)
+Réact (à voir)
+
 Projet pokémon strat en français. (Adaptation de Smogon source)
