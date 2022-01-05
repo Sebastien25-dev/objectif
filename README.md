@@ -4,12 +4,12 @@
 - CSS
 - Java script
 
-Apprentissage de HTML.
-Cours sur les éléments sémantiques HTML vu (définition et utilité).
-Apprentissage sur les validations de formulaire. vu.
-Exercice CV fait (à modifier)
-Exercice Formulaire (à modifier)
-Prochainement cours CSS.
-Exercice froggy (en cours)
-Cours CSS quasi finis
+HTML fini.
+Cours sur les éléments sémantiques HTML fini. (définition et utilité).
+Apprentissage sur les validations de formulaire. fini.
+Exercice CV fait et fini. (à modifier)
+Exercice Formulaire fini. (à modifier)
+Exercice froggy fini.
+Cours CSS fini.
 JavaScript cours sur les fondamentaux (en cours d'apprentissage)
+Projet pokémon strat en français. (Adaptation de Smogon source)
